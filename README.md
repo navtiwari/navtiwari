@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navtiwari
 - 👀 I’m interested in Application development and technical leadership
 - 🌱 I’m currently learning laravel framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m interested collaborating on application ideas
 - 📫 How to reach me ...
 
 <!---
